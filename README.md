@@ -15,3 +15,8 @@ DefaultLayout.razor
 │
 └─ WelcomeEmail.razor
 ```
+
+### Things to consider
+
+* How to localize default component text?
+* How to manage global styles?
